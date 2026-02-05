@@ -1,51 +1,20 @@
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-# 🧠 IT Support Copilot
+# Run and deploy your AI Studio app
 
-An AI-powered IT Helpdesk Copilot built with **React, TypeScript, Tailwind CSS, and Google Gemini (AI Studio)**.  
-The application assists IT support staff by guiding troubleshooting, classifying incidents, escalating tickets, and tracking SLAs in a clean, modern dashboard.
+This contains everything you need to run your app locally.
 
-This project is suitable for **IT Support portfolios, capstone projects, and real-world helpdesk simulations**.
+View your app in AI Studio: https://ai.studio/apps/drive/1g7vZ2X0Q4UfZaQmjhTrHA-NE6p0JbcmZ
 
----
+## Run Locally
 
-## ✨ Features
-
-- 🤖 **AI Copilot Chat**
-  - Guided troubleshooting using Google Gemini
-  - Converts user issues into structured tickets
-
-- 🎫 **Ticket Classification**
-  - Category, priority, summary, and steps taken
-  - Auto-generated incident IDs
-
-- ⏱️ **SLA Tracking**
-  - Priority-based SLA targets
-  - Visual SLA status indicators
-
-- 📊 **Dashboard & Ticket History**
-  - View escalated tickets
-  - Review troubleshooting logs and status
-
-- 🔐 **Google AI Studio Integration**
-  - Uses API key selection via AI Studio environment
-  - Billing-aware API key validation
-
-- ☁️ **Vercel Ready**
-  - Optimized for fast deployment
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React + TypeScript
-- **Styling:** Tailwind CSS
-- **Icons:** lucide-react
-- **AI:** Google Gemini (AI Studio)
-- **Build Tool:** Vite
-- **Deployment:** Vercel
-
----
+**Prerequisites:**  Node.js
 
 
-
-
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

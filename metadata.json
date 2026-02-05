@@ -1,0 +1,8 @@
+{
+  "name": "Tech It Easy Copilot - Capstone Project",
+  "description": "An automated Tier-1 IT Support Copilot designed for diagnosing common issues, retrieving knowledge base articles, and intelligent ticket classification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
