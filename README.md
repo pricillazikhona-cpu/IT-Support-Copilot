@@ -1,5 +1,4 @@
-# IT-Support-Copilot
-T Support Copilot – A React + Google Gemini powered helpdesk copilot that guides troubleshooting, classifies incidents, escalates tickets, and tracks SLAs. Built for IT Support workflows and deployable on Vercel.
+
 # 🧠 IT Support Copilot
 
 An AI-powered IT Helpdesk Copilot built with **React, TypeScript, Tailwind CSS, and Google Gemini (AI Studio)**.  
