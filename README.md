@@ -46,7 +46,6 @@ This project is suitable for **IT Support portfolios, capstone projects, and rea
 
 ---
 
-## 📂 Project Structure
 
 
 
